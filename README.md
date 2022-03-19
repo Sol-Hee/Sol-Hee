@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @Sol-Hee
+### 👋 Hi, I’m [@Sol-Hee](https://github.com/Sol-Hee)
   - Data Analyst & Engineer
   
 ### 👀 I’m interested in ...
