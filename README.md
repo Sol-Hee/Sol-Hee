@@ -4,7 +4,6 @@
 ### 👀 I’m interested in ...
   - Python
   - DataBase
-  - Math & Statics
   - Spark
 
 ### 🌱 I’m currently learning ...
