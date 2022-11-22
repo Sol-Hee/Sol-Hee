@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m [@Sol-Hee](https://github.com/Sol-Hee)
-  - Data Analyst & Engineer
+  - Data Engineer
   
 ### 👀 I’m interested in ...
   - Python
@@ -9,6 +9,7 @@
 
 ### 🌱 I’m currently learning ...
   - PL/SQL
+  - Java
   - Spark
 
 ### ✨ Blog <br/>
