@@ -2,18 +2,11 @@
   - Data Engineer
   
 ### 👀 I’m interested in ...
-  - Python
-  - DataBase
-  - Spark
-
-### 🌱 I’m currently learning ...
-  - PL/SQL
-  - Java
-  - Spark
+  - Distributed computing
 
 ### ✨ Blog <br/>
+  - [Tistory](https://sol-hee.tistory.com/)
   - [GitBlog](http://Sol-hee.github.io)
-  - [Naver](http://blog.naver.com/thfgml07)
 
 <!---
 Sol-Hee/Sol-Hee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
